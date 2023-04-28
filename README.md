@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing BCA <br>My favourite programming language is JAVA<br>Web Development is my hooby
+I'm currently pursuing BCA <br> My favourite programming language is JAVA<br>Web Development is my hooby <br> <strong><i><li>Programming is hobby but program is everything.</li></i>🎖</strong>
 
 
 ## 🌐 Socials:
