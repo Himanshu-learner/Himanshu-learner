@@ -1,5 +1,5 @@
 # 💫 About Me:
-<ul><li> I'm <i><strong>currently</strong></i> pursuing BCA. </li><li>My favourite <i><strong>programming</strong></i> language is JAVA. </li><li><i><strong>Web Development</strong></i> is my hooby. </li> <strong><i><li>Programming is hobby but program is everything.</li></i>🎖🎖🎖🎖🎖🎖🎖🎖🎖🎖</strong> 
+<ul><li> I'm <i><strong>currently</strong></i> pursuing BCA. </li><li>My favourite <i><strong>programming</strong></i> language is JAVA. <style= color;blue;> </li><li><i><strong>Web Development</strong></i> is my hooby. </li> <strong><i><li>Programming is hobby but program is everything.</li></i>🎖🎖🎖🎖🎖🎖🎖🎖🎖🎖</strong> 
  <h6>✨Please! Give some suggestion about programming ✨</h6> 
  
  <gmail>chatwithyou19n@gmail.com</gmail>
