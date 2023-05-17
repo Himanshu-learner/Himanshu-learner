@@ -3,7 +3,7 @@
 <ul><li> I'm <i><strong>BCA</strong></i> student. </li><li>My favourite <i><strong>programming</strong></i> language is JAVA.  </li><li><i><strong>Web Development</strong></i> is my hooby. </li> <strong><i><li>Programming is everything.</li></i>🎖🎖🎖🎖🎖🎖🎖</strong> 
  </details><h6>✨Please! Give some suggestion about programming ✨</h6> 
  
- <e><gmail>chatwithyou19n@gmail.com</gmail></e>
+ <em><gmail>chatwithyou19n@gmail.com</gmail></em>
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hitam_himanshu0?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chaurasiya1818/) <h6> <i> Meet on social media for good connection </i> </h6>
